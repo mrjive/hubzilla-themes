@@ -1,3 +1,3 @@
 <?php
 require_once('view/theme/redbasic/php/style.php');
-echo @file_get_contents('view/theme/mrhub1/css/style.css');
+echo @file_get_contents('view/theme/hubjive1/css/style.css');

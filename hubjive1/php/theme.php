@@ -7,6 +7,6 @@
  *   * Compat: Hubzilla [*]
  *
  */
-function mrhub1_init(&$a) {
+function hubjive1_init(&$a) {
     $a->theme_info['extends'] = 'redbasic';
 }
